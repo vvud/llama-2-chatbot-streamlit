@@ -1,0 +1,7 @@
+transformers
+ctransformers
+streamlit
+tensorflow
+torch
+bitsandbytes
+accelerate
